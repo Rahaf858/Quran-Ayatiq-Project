@@ -47,3 +47,9 @@
 
 
 google  colab ai chatgpt using this link : https://colab.research.google.com/drive/1vglQROCsK8AfZol9NNNdiOzoJkPfZktr#scrollTo=5ja_u8JVMGm9
+
+
+
+figam sugguestion templets:
+https://www.figma.com/community/search?query=chatbot&resource_type=mixed&editor_type=all&price=all&sort_by=relevancy&creators=all
+
