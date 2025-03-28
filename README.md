@@ -44,3 +44,6 @@
 4.	Logo and name (رقائق)
 5.	Presentation (they will send the templet, but we need to make what will do in the presentation 
 6.	AI model + Dataset
+
+
+google  colab ai chatgpt using this link : https://colab.research.google.com/drive/1vglQROCsK8AfZol9NNNdiOzoJkPfZktr#scrollTo=5ja_u8JVMGm9
