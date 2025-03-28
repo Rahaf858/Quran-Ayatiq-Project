@@ -1,7 +1,7 @@
 الفكرة:
 مشروعي يهدف إلى تطوير مساعد ذكي يعتمد على الذكاء الاصطناعي لتقديم نصائح حياتية مستمدة من القرآن الكريم وتفسير السعدي، حيث يقوم المستخدم بكتابة موقف يمر به في حياته، مثل الشعور بالحزن أو القلق أو التوتر، فيقوم النظام بتحليل الموقف واقتراح آية مناسبة من القرآن الكريم، ويعرض تفسير السعدي لها باللغة العربية، بالإضافة إلى نصيحة عملية يمكن للمستخدم تطبيقها في حياته اليومية.
 
-##DataSet
+**DataSet**
 
 -https://github.com/hablullah/data-quran
 
@@ -10,9 +10,10 @@
 
 
 
-•  ##The input
-a real-life situation described by the user
-•  ##The output 
+**The input**
+-a real-life situation described by the user
+
+**The output** 
 
 •  Relevant Quranic Verse
 •	In Arabic and/or English
@@ -35,7 +36,7 @@ a real-life situation described by the user
 
 
 
-what will we need?
+**what will we need?**
 
 1.	Poster
 2.	App Prototype
