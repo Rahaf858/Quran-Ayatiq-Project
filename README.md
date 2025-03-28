@@ -1,33 +1,19 @@
 الفكرة:
 مشروعي يهدف إلى تطوير مساعد ذكي يعتمد على الذكاء الاصطناعي لتقديم نصائح حياتية مستمدة من القرآن الكريم وتفسير السعدي، حيث يقوم المستخدم بكتابة موقف يمر به في حياته، مثل الشعور بالحزن أو القلق أو التوتر، فيقوم النظام بتحليل الموقف واقتراح آية مناسبة من القرآن الكريم، ويعرض تفسير السعدي لها باللغة العربية، بالإضافة إلى نصيحة عملية يمكن للمستخدم تطبيقها في حياته اليومية.
 
-Dataset:
-import kagglehub
+##DataSet
 
-# Download latest version
-path = kagglehub.dataset_download("imrankhan197/the-quran-dataset")
+-https://github.com/hablullah/data-quran
 
-print("Path to dataset files:", path)
-
-
-import kagglehub
-
-# Download latest version
-path = kagglehub.dataset_download("zusmani/the-holy-quran")
-
-print("Path to dataset files:", path)
+-https://www.kaggle.com/datasets/imrankhan197/the-quran-dataset
+-https://www.kaggle.com/datasets/zusmani/the-holy-quran
 
 
 
-https://github.com/hablullah/data-quran
+•  ##The input
+a real-life situation described by the user
+•  ##The output 
 
-https://www.kaggle.com/datasets/imrankhan197/the-quran-dataset
-https://www.kaggle.com/datasets/zusmani/the-holy-quran
-
-
-
-•  The input a real-life situation described by the user
-•  The output 
 •  Relevant Quranic Verse
 •	In Arabic and/or English
 •	With Surah name and verse number
