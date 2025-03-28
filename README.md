@@ -43,7 +43,7 @@
 1.	Poster
 2.	App Prototype
 3.	Survey for people usual problems/if they want to use our app
-4.	Logo and name (رقائق)
+4.	Logo and name (آيتك)
 5.	Presentation (they will send the templet, but we need to make what will do in the presentation 
 6.	AI model + Dataset
 
